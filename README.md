@@ -61,7 +61,7 @@ Designed and simulated a Robotic manipulator for chargers to charge carport auto
 
 * Applications of Deep learning in Science & Tech
 * AI Interpretability
-* Natural Language Processing and Recommendation systems
+* Applications of NLP and Generative AI
 * Data Analysis and Visualization 
 
 ## Extra-Curricular Activities
