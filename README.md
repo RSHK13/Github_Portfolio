@@ -47,7 +47,8 @@ Designed and simulated a Robotic manipulator for chargers to charge carport auto
 ## Skills
 
 * **Analytical skills:** Machine learning, Data Analysis, Deep learning, Linear algebra, Ordinary and Partial Differential equations, Data Visualization, Statistical analysis
-* **Softwares and Languages:** Python, C++, SQL, PyTorch, Tensorflow, Langchain, Langsmith, Matlab and Simulink, SAS, SAS EMiner, MS Office
+* **Softwares and Languages:** Python, C++, SQL, PyTorch, Tensorflow, Langchain, Langsmith, Matlab, Simulink, MS Office, Ansys, Comsol, SolidWorks
+* **Matlab Toolboxes:** Control system Design, Computer Vision,Reinforcement Learning, Simscape, Simscape MultiBody
 
 ## Education
 
@@ -55,12 +56,14 @@ Designed and simulated a Robotic manipulator for chargers to charge carport auto
     * Indian Institute of Technology Madras, Chennai, India
     * CGPA: 8.91/10
     * Year of Completion: 2025
+  
 ## Areas of Interest
 
-* Applications of Deep learning and Generative AI
+* Applications of Deep learning in Science & Tech
+* AI Interpretability
 * Natural Language Processing and Recommendation systems
 * Data Analysis and Visualization 
 
 ## Extra-Curricular Activities
-* Was part of High-Power systems and Levitation team at Avishkar Hyperloop, CFI, IIT Madras
+* Was part of the High-Power systems and Levitation team at Avishkar Hyperloop, CFI, IIT Madras
 * Member of National Sports Organization (NSO) Tennis in IIT Madras.
