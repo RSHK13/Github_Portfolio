@@ -50,3 +50,12 @@ Designed and simulated a Robotic manipulator for chargers to charge carport auto
     * Indian Institute of Technology Madras, Chennai, India
     * CGPA: 8.91/10
     * Year of Completion: 2025
+## Areas of Interest
+
+* Applications of Deep learning and Generative AI
+* Natural Language Processing and Recommendation systems
+* Data Analysis and Visualization 
+
+## Extra-Curricular Activities
+* Was part of High-Power systems and Levitation team at Avishkar Hyperloop, CFI, IIT Madras
+* Member of National Sports Organization (NSO) Tennis in IIT Madras.
