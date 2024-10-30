@@ -30,7 +30,7 @@ Submitted poster presentation(What makes a representation Interpretable?) to NAI
 * **Tools and frameworks used:** T5 LLM, BERT, Python.
 
 
-**Neural Operators | Jul 202 - Present**
+**Neural Operators | Jul 2024 - Present**
 <br>
 **Guided by Dr. ChandraShekar LakshmiNarayanan**
 * Experimenting with differentiable kernel functions in integral transform for better local feature capture on Convolutional Neural operators
