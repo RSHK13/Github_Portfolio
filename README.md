@@ -20,9 +20,9 @@ Using deep learning models to develop features for Advanced Driver Assistance Sy
 ## Projects
 
 **Usupervised Primitive Detection | Feb 2023 - Present**
-* **Guided by Dr. Raghunathan Rengaswamy**
 <br>
 Submitted poster presentation(What makes a representation Interpretable?) to NAISys 2024 at Cold Spring Harbor Laboratory
+* **Guided by Dr. Raghunathan Rengaswamy**
 * Developed sparse-coding algorithm to detect primitives from variably encoded data using Entropy optimization,inspired by Neuroscience
 * Tested the algorithm on English(Brown Corpus) & Spanish(CSS-10 Spanish), able to detect 85% known words from noisy text(no spaces)
 * Aiming to use as an alternative for Wordpiece & SentencePiece encodings in BERT for sub-word modeling, by testing attention matrices
@@ -36,6 +36,7 @@ Submitted poster presentation(What makes a representation Interpretable?) to NAI
 * **Tools and frameworks used:** Jax, Pytorch.
 
 **EV Charger Bot | Inter-IIT Tech'23 | Dec 2022 - Feb 2023**
+<br>
 Designed and simulated a Robotic manipulator for chargers to charge carport autonomously
 * Implemented a YOLO object detection model to identify location and orientation of charging ports accurately
 * Optimized 4-DOF robot’s link lengths for workspace utilization & path planning using inverse kinematics
