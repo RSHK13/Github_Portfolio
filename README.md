@@ -10,6 +10,7 @@ Using Generative AI tools to enhance customer shopping experience on their e-Duk
 * **Tools and frameworks used:** Gemini-1.5-Flash, OpenAI, LangChain, LangSmith, DeepSpeed, FastAPI, Streamlit (Python).
 
 **ADAS Engineer (ML Division) | Ashok Leyland, Chennai, India | May 2022 - Jun 2022**
+<br>
 Using deep learning models to develop features for Advanced Driver Assistance System
 * Deployed the YOLOv5 model for obstacle detection as part of emergency braking achieving IoU scores of 0.75+
 * Simulated Pure pursuit control in Matlab optimizing target point using vehicle speed for Automatic steering
@@ -19,7 +20,8 @@ Using deep learning models to develop features for Advanced Driver Assistance Sy
 ## Projects
 
 **Usupervised Primitive Detection | Feb 2023 - Present**
-* **Guided by Dr. Raghunathan Rengaswamy** 
+* **Guided by Dr. Raghunathan Rengaswamy**
+<br>
 Submitted poster presentation(What makes a representation Interpretable?) to NAISys 2024 at Cold Spring Harbor Laboratory
 * Developed sparse-coding algorithm to detect primitives from variably encoded data using Entropy optimization,inspired by Neuroscience
 * Tested the algorithm on English(Brown Corpus) & Spanish(CSS-10 Spanish), able to detect 85% known words from noisy text(no spaces)
@@ -28,7 +30,7 @@ Submitted poster presentation(What makes a representation Interpretable?) to NAI
 
 
 **Neural Operators | Jul 202 - Present**
-* **Guided by Dr. ChandraShekar LakshmiNarayanan** 
+* **Guided by Dr. ChandraShekar LakshmiNarayanan**
 * Experimenting with differentiable kernel functions in integral transform for better local feature capture on Convolutional Neural operators
 * Exploring an improved positional encoding scheme with fourier features for modeling chaotic systems with CNOs & FNOs
 * **Tools and frameworks used:** Jax, Pytorch.
